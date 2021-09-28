@@ -1,0 +1,4 @@
+#Tue Sep 28 11:31:08 JST 2021
+base.0=C\:\\Users\\shalc\\Desktop\\Electro gun\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
